@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/pingu00" android:duration="50" />
+    <item android:drawable="@drawable/pingu01" android:duration="50" />
+    <item android:drawable="@drawable/pingu02" android:duration="50" />
+    <item android:drawable="@drawable/pingu03" android:duration="50" />
+    <item android:drawable="@drawable/pingu04" android:duration="50" />
+    <item android:drawable="@drawable/pingu05" android:duration="50" />
+    <item android:drawable="@drawable/pingu06" android:duration="50" />
+    <item android:drawable="@drawable/pingu07" android:duration="50" />
+    <item android:drawable="@drawable/pingu08" android:duration="50" />
+    <item android:drawable="@drawable/pingu09" android:duration="50" />
+    <item android:drawable="@drawable/pingu10" android:duration="50" />
+    <item android:drawable="@drawable/pingu11" android:duration="50" />
+    <item android:drawable="@drawable/pingu12" android:duration="50" />
+</animation-list>
